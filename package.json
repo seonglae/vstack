@@ -2,7 +2,7 @@
   "name": "vstack",
   "displayName": "VStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.x.x"
   },
@@ -21,11 +21,11 @@
     "Extension Packs"
   ],
   "keywords": [
-    "stack",
+    "base",
     "develop",
     "necessary",
     "pro",
-    "noob"
+    "default"
   ],
   "extensionPack": [
     "adpyke.codesnap",
